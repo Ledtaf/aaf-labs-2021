@@ -1,0 +1,12 @@
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/obj/Debug/net5.0/ParseUtilities.csproj.AssemblyReference.cache
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/obj/Debug/net5.0/ParseUtilities.GeneratedMSBuildEditorConfig.editorconfig
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/obj/Debug/net5.0/ParseUtilities.AssemblyInfoInputs.cache
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/obj/Debug/net5.0/ParseUtilities.AssemblyInfo.cs
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/obj/Debug/net5.0/ParseUtilities.csproj.CoreCompileInputs.cache
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/bin/Debug/net5.0/ParseUtilities.deps.json
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/bin/Debug/net5.0/ParseUtilities.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/bin/Debug/net5.0/ref/ParseUtilities.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/bin/Debug/net5.0/ParseUtilities.pdb
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/obj/Debug/net5.0/ParseUtilities.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/obj/Debug/net5.0/ref/ParseUtilities.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/ParseUtilities/obj/Debug/net5.0/ParseUtilities.pdb

@@ -1,0 +1,15 @@
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/PointClass.csproj.AssemblyReference.cache
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/PointClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/PointClass.AssemblyInfoInputs.cache
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/PointClass.AssemblyInfo.cs
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/PointClass.csproj.CoreCompileInputs.cache
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/bin/Debug/net5.0/PointClass.deps.json
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/bin/Debug/net5.0/PointClass.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/bin/Debug/net5.0/ref/PointClass.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/bin/Debug/net5.0/PointClass.pdb
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/bin/Debug/net5.0/RBush.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/bin/Debug/net5.0/RBush.pdb
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/PointClass.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/ref/PointClass.dll
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/PointClass.pdb
+/home/nick/Documents/Programming/C#/Various code/rtree/PointClass/obj/Debug/net5.0/PointClass.csproj.CopyComplete

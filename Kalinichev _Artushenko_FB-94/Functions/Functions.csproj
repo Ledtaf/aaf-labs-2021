@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\RBush\RBush\RBush.csproj" />
+    <ProjectReference Include="..\PointClass\PointClass.csproj" />
+    <ProjectReference Include="..\ParseUtilities\ParseUtilities.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

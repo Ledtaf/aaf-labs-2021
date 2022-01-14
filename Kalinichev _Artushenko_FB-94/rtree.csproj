@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="Functions\Functions.csproj" />
+    <ProjectReference Include="RBush\RBush\RBush.csproj" />
+    <ProjectReference Include="PointClass\PointClass.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <NoWarn>0436,0660,0661</NoWarn>
+  </PropertyGroup>
+
+</Project>
